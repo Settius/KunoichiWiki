@@ -1,2 +1,2 @@
-# Kunoichi_Wiki
+# KunoichiWiki
  
