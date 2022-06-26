@@ -2,7 +2,7 @@ site_name: Arc Plugins Documentation
 site_description: 'Documentation for the Kunoichi Wiki'
 site_author: 'Settius'
 docs_dir: docs/
-repo_name: 'Settius/Kunoichi_Wik'
+repo_name: 'Settius/Kunoichi_Wiki'
 repo_url: 'https://github.com/Settius/Kunoichi_Wiki'
 copyright : Copyright &copy; 2020-2021 Puny Human
 extra_css:
