@@ -1,4 +1,4 @@
-Welcome to the Arc Plugins documentation portal!
+Welcome to the Kunoichi documentation portal!
 
 Arc Plugins are a collection of plugins published by Puny Human on the Unreal Marketplace.  They are designed for multiplayer games across many genres, and built to empower developers to create amazing games without having to rewrite all the boilerplate for common systems.  They are all highly performant, shipping in multiple titles, and multiplayer focused.  
 
