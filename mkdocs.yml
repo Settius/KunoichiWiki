@@ -11,8 +11,9 @@ nav:
     - Home: 
         - index.md
         - "Documentation Roadmap": "home/docroadmap.md"
-     - "Notes":
+    - "Notes":
       - Home: "notes/index.md"
+      - "Uncharted 4": "notes/uncharted4.md"
     - "Arc Inventory":
       - Home: "arcinventory/index.md"
       - "Initial Setup": "arcinventory/initialsetup.md"
