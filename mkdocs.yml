@@ -11,6 +11,8 @@ nav:
     - Home: 
         - index.md
         - "Documentation Roadmap": "home/docroadmap.md"
+     - "Notes":
+      - Home: "notes/index.md"
     - "Arc Inventory":
       - Home: "arcinventory/index.md"
       - "Initial Setup": "arcinventory/initialsetup.md"
