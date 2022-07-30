@@ -68,3 +68,4 @@
 - projectile and melee deflection
 
 
+--8<-- "includes/abbreviations.md"
