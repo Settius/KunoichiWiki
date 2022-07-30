@@ -13,6 +13,7 @@ nav:
         - "Documentation Roadmap": "home/docroadmap.md"
     - "Notes":
       - Home: "notes/index.md"
+      - "Star Wars Jedi: Fallen Order": "notes/stj_fallen_order.md"
       - "Uncharted 4": "notes/uncharted4.md"
       - "Carrion": "notes/carrion.md"
       - "Gunk": "notes/gunk.md"

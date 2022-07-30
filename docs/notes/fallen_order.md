@@ -1,0 +1,70 @@
+# Star Wars Jedi: Fallen Order
+
+- rope jumping
+- visible interactables for traversing with hotkeys
+- instant run lift to stand
+- free wall climb
+- many platform in various forms
+- recovery state from some modes, events
+- custom actions while climbing
+- sliding down on slope
+- unlocked abilities panel
+- static weather and implications (clothes wetness)
+- higher elevation takedown
+- deflection
+- zip line, traverse on pipe/log (under and above)
+- notes: sideline (divided into parts) story
+- weapon, equipment cosmetics
+- tutorial through exploration
+- wall run!
+- story through interactables (e.g. scanning), items 
+- great ominous, uplifting UI sounds and interaction
+- findings, quests, dead enemies scanning gives XP, equipment variants and codex entries (tactical guide!)
+- unique environment elements, moving mechanical parts, large objects
+- fighting with evil corrupted enemies
+- close wall animation
+- interactions, unlockable paths gated by abilities (unlock after certain quests, story events)
+- music atmosphere depending on environment theme
+- scanning world objects gives clues
+- physics based puzzles (platforms, ropes, water)
+- eternal, ancient "force"
+- fast moving crushing blocks
+- steep slope animation, movement
+- combo moves
+- arty skill tree made in stone (many UI animation, moving parts), probably 3D widget
+- local wind affect while in air (vertical and horizontal)
+- short map events that unlock abilities
+- strong critical hits after special action
+- meditate, rest map
+- companion
+- unique abilities that affects not only combat but also other game elements (level progression)
+- not many archetypes of enemies but variants with varied gameplay for each
+- outline objects that interactables with special force
+- no levels only skill points and granted abilities (force)
+- special events that gives skill points and force
+- shortcuts unlockable only from one side
+- preview of abilities (backed movies) in skill tree, UI
+- lose only portion of health on critical fall (no death)
+- paths change after interactions with objects
+- finishers, crits on crumble
+- chests, secret special animation
+- findings quantities visible on map level, section
+- same path -> multiple experiences on different game phase
+- companion with abilities (some you can activate directly)
+- environmental traps
+- swimming, also underwater - expanding traversing, secret paths
+- world wap fog of war
+- jumping pads
+- double jump
+- gas poison release on enemy death, poison on hit (even when blocked)
+- companion shows interactables, POI
+- posture meter - when empty can't block and get crit
+- light/energy beam in puzzles
+- lifts, ziplines, slop slide for fast travel
+- random boss encounters at later stages in low threat spots
+- balanced progression: health system, damage, new abilities
+- default FOV 45
+- plot twists (enemy turn into ally)
+- projectile and melee deflection
+
+
