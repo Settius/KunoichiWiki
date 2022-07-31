@@ -66,4 +66,5 @@
 - default FOV 45
 - plot twists (enemy turn into ally)
 - projectile and melee deflection
+- diviersity in combat encounters: archetypes mixed in quantity and quality
 
