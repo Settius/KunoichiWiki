@@ -8,6 +8,3 @@
 - wasteland (toxic, corrupted, toxic areas)
 - unlockable platforms
 - gates, keys
-
-
---8<-- "includes/abbreviations.md"

@@ -8,6 +8,3 @@
 - timed puzzles
 - level paths branching
 - long range interactables
-
-
---8<-- "includes/abbreviations.md"
