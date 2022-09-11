@@ -1,0 +1,95 @@
+# Rise of the Tomb Raider
+
+- Extreme weather conditions
+- Cutscenes with quick time events (QTE)
+- QTE while traversing
+- Axe free climb
+- Companions
+- Camera centered on target location while traversing
+- Volume modifiers for traversal
+- Dynamic rope combined with axe
+- Steep slide with axe QTE
+- Moving platforms
+- Quick transition between game and cutscene
+- Lot of quick cutscenes while traversing
+- Lens flares
+- Subtitles in parallel for multiple characters
+- Continuous climbing animation between ledges with only directional input, jump input for far ledges
+- Strong highlight for crucial interactables after focus
+- Highlights enemies after focus
+- Progression for interactables (languages)
+- Double jump - additional jump on vertical surface (long suspension on wall) 
+- VFXs while traversing e.g. falling rocks
+- Path changing while you traverse
+- Autosave system, at least for fall deaths
+- Recover state
+- Light source in darkness
+- Traps
+- Obstacles, puzzle elements can be destroyed with weapons or sometimes fire
+- Tons of destructibles
+- PP effects, decals, material functions on character: water, heat, dirt
+- Steep slope mode
+- Slomo mode in high action moments
+- Open/close areas mixup
+- Show objective, interactables after input
+- Water puzzles
+- Swinging, physical movement while climbing
+- Fighting with lunatics, cult (Trinity) - shown through readable notes
+- Infinite ammo for base projectile weapon
+- Many turns, change of view
+- Physics puzzles, interactions (water, weight)
+- One timed travel section, anty-MV principle of returning to previous locations (progression related at least)
+- Epic moments after heavy actions
+- Mixed environments by temperature, barren/lush
+- Many vertical surfaces, short tunnels (with traps)
+- Fast travel system with camps
+- Resources, crafting system: weapon upgrades, consumables, empowered ammunition
+- Wind mechanic but mostly baked behavior
+- Slow movement mode (deep snow, wind, heat, injured)
+- Special ledge climb on narrow beam (stone, branch)
+- Ledge grab while falling with montage
+- Ziplines
+- Pull thorough horizontal line
+- Wildlife you can hunt
+- Stealth attacks, OHK (one hit kill)
+- Aerial takedown
+- Challenges giving xp (combat and exploration related)
+- XP depending on kill type (stealth, takedown, headshot)
+- Region, world map stats
+- Optional challenge tombs - not required for main story, can unlock abilities
+- Timings in traversal
+- Swimming, high jumps
+- Enemy changing into ally and opposite
+- Few weapon types but many upgrades
+- Subtle effect pointing POIs
+- Can distract enemies with throwable objects (shows also trajectory)
+- Clearly visible traversable objects
+- AI has awareness of fallen comrades, go into alert mode after that (shown also with scanning)
+- AI doesn't attack so often while player is in action (e.g. stealth kill), only after slight delay
+- Stealth bushes
+- Markers for aggro enemy when camera currently obstructed
+- Only resources, ammo drop from enemies
+- More vertical elements in open areas (towers, mountains, cliffs)
+- Immersive hand placed VFXs (fire, dust, wind/snow blows, water)
+- Shop keepers - weapons; mostly requires microtransactions to buy anything good
+- Break wall to unlock path
+- Aim bow and unlock by pulling rope
+- Weapon upgrades needs pickable parts
+- Bow charge for better accuracy
+- Distinguishable chapters of the game (intro, puzzle, Trinity encounter, tomb, Trinity post, open area, prison break, ...)
+- Resource don't respawn
+- Can build ziplines with rope bridge between posts
+- Explosive bombs
+- Waves of enemy besides static placed ones
+- Race sections mixed with cutscenes
+- Destructibles platforms (ice, rocks)
+- Ability gates
+- Ascending slowly and rides down
+- Bow concentration for higher accuracy
+- Large 3D widget for objectives
+- Combination of different traverse types
+- Falling objects around in collapse sections
+- Dark levels mostly in caves
+- Towers!
+- Crucial allies on the rode but many npcs in camps
+- Many ammo types per weapon (mostly bow)
