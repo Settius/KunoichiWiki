@@ -19,6 +19,7 @@ nav:
       - "Carrion": "notes/carrion.md"
       - "Stray": "notes/stray.md"
       - "Gunk": "notes/gunk.md"
+      - "Junky Games": "notes/junky_games.md"
     - "Arc Inventory":
       - Home: "arcinventory/index.md"
       - "Initial Setup": "arcinventory/initialsetup.md"
