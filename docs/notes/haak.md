@@ -1,0 +1,49 @@
+# Haak
+
+- hidden, destroyable walls, visibility switch areas - leads to secret, path or unlocks traversal mode
+- basic mechanics slowly introduced
+- lots of basic traversal at the beginning
+- stop time when aiming
+- ranged interactables
+- souls like enemy respawns (also some pickables), save system and teleport
+- med kits upon killing enemies or pickable
+- lever, button which changes platform movement
+- gold resources which can be used to buy upgrades - gained from enemies or "chests"
+- utility gated clearly informed - fluent progression through exploration
+- guided nonlinearity
+- map - with fog, you can place markers
+- password system - once collected stored in a quest log
+- ori: like magnets you can hook to pass through; thrust (down and separate up) ability to break reinforced structure
+- time puzzles with lazers - requires good timing
+- stamina bars for dash - basically cooldown with one bar, upgrade to double, locked cd in air
+- upgrades for attacks also allows to destroy obstacles
+- saving resets also level blockers
+- deflection
+- health regen actors that doesn't reset level
+- closed arenas with enemy waves
+- multi lock gates - keys spread around
+- dash gives unvernability
+- map previews not visited paths near unlocked area
+- input in attacks affects distance traveled
+- timed, running sections
+- clear visual preview of attack type
+- crouch dash - slide, upgrade to continues slide
+- standard dynamic rope
+- vertical wind
+- quite a lot of side mission from NPCs
+- jumping platforms
+- one hit kill enemies
+- skill/utilities have many upgrades you unlock through level progression
+- toxic gas areas with meter (death ono full) - upgrades for reduce toxicy
+- preview for switch effector
+- difficult boss fight - weird difficulty curve, unique but standing out of from usual encounters
+- dark areas
+- constand updagres some of the abilites - hook mostly: speed, distance, damage on retrive
+- teleport to different entries
+- important NPCs not mark on the map - difficult to track quests
+- compass for POI - later in the game
+- lack of names for areas on the map - could be thematicaly or story related
+- multiple entries to large map - need to progress few to unlock path
+- gliding skill with wind acceleration
+- great platforming
+- good story, music, audio

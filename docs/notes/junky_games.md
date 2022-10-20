@@ -1,4 +1,4 @@
-# Uncharted 4
+# Junky Games
 
 ### Supraland
 
@@ -10,3 +10,8 @@
 
 - exploration is tedious, boring - waste of time, gives mostly collectables you can use for upgrades but there is little to explore for real, markers for secrets are wasted potential which could be cool part of the game
 - combat and controls are straight up bad - lag on controller input, enemies are boring
+
+### Grime
+
+- dull combat, similar to dark souls
+- rough and simple traversal
