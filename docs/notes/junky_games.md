@@ -3,7 +3,7 @@
 ### Supraland
 
 - simple game, easy to pickup
-- many systems underdeveloped: combat, exploration, progression - everything oversimplified and dull
+- many systems underdeveloped (boring and clunky): combat, exploration, progression - everything oversimplified and dull
 - puzzles, secret are fine but often obscured (lack of vision guidance)
 
 ### Journey to the savage planet
@@ -14,4 +14,11 @@
 ### Grime
 
 - dull combat, similar to dark souls
-- rough and simple traversal
+- rough and boring traversal
+
+### Teslagrad
+
+- nice art and story at first
+- bad controls, too slow deceleration
+- problem with puzzle physics - imprecise input (floaty output but requires precise output)
+- often boring, unfunny
