@@ -22,3 +22,9 @@
 - bad controls, too slow deceleration
 - problem with puzzle physics - imprecise input (floaty output but requires precise output)
 - often boring, unfunny
+
+### Tinykin
+
+- unique art - tiny 2D characters textures facing camera
+- simple platforming
+- collattable resources required for unlocking access within level
