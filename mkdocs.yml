@@ -15,6 +15,7 @@ nav:
       - Home: "notes/index.md"
       - "Star Wars Jedi: Fallen Order": "notes/fallen_order.md"
       - "Uncharted 4": "notes/uncharted4.md"
+      - "God of War Ragnarok": "gow_ragnaraok.md"
       - "Rise of the Tomb Raider": "notes/rise_tomb_raider.md"
       - "Carrion": "notes/carrion.md"
       - "Haak": "notes/haak.md"      
@@ -23,6 +24,7 @@ nav:
       - "Stray": "notes/stray.md"
       - "Gunk": "notes/gunk.md"
       - "Junky Games": "notes/junky_games.md"
+      - "Fez" : "notes/fex.md"
     - "Arc Inventory":
       - Home: "arcinventory/index.md"
       - "Initial Setup": "arcinventory/initialsetup.md"

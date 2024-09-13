@@ -1,0 +1,39 @@
+s# God of War Ragnarok
+
+- grapple hook to elevate and jump down from high ledge
+- empower weapon ability for one attack
+- many settings for gameplay, HUD, camera, subtitles
+- environment switch location with blades
+- loot hidden in the branch path, often requires new extended jump with blades to get through
+- in-game UI tutorial and codex in sync
+- kill mob puzzle dropping loot
+- skills upgrade when used several times
+- one-sided paths
+- blocked progression clearly explained
+- destructible passage puzzles
+- large secret areas of map
+- mechanics, physics, water puzzles
+- large hubs and maze-like levels
+- "chase" sequence
+- mobility through abilities
+- no hit weapon damage buildup
+- ricochet projectile puzzle
+- unblockable attacks that need to be interrupted to block damage
+- weather impact game through sandstorm you need to stop
+- map layers unlocked through story reveling new areas
+- triggers (fight, story) on traverse or collect loot
+- environmental traps, enemies
+- multiple stages of boss fights with save after each one
+- tiers for equipment and related crafting resources
+- multiple player characters and  - separated simplified inventory and skill tree
+- talking sword - mimics speech
+- vertical mechanical-puzzles, map divided (not strictly) into vertical levels
+- combat: simple but unique ways to defeat enemy, e.g. guard break
+- climb into hook climb and opposite
+- multiple sockets for different kind of equipment/weapon
+- boring pacing of the game, more complexity without depth comparing to prequel
+- one level changes (day/night) upon player interaction, unlocking new content
+- loot requires more complex interaction like destruction of vessel
+- visual representation of different attack types
+- combo unique with QTE
+- modular enemy shield broken with specific elemental
